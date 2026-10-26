@@ -1,0 +1,6 @@
+# Reports are welcome in Japanese or English. Policy: see the Policy field below.
+Contact: https://security.babushkai.com/disclosure/
+Policy: https://security.babushkai.com/disclosure/
+Preferred-Languages: ja, en
+Canonical: https://security.babushkai.com/.well-known/security.txt
+Expires: 2027-04-24T15:26:42Z
